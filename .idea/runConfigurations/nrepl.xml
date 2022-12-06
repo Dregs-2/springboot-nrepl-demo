@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="nrepl" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+    <module name="springboot-nrepl-demo" />
+    <setting name="displayName" value="nrepl" />
+    <setting name="host" value="localhost" />
+    <setting name="port" value="7999" />
+    <setting name="replType" value="NREPL" />
+    <setting name="configType" value="SPECIFY" />
+    <setting name="replPortFileType" value="STANDARD" />
+    <setting name="customPortFile" value="" />
+    <setting name="fixLineNumbers" value="false" />
+    <setting name="focusEditor" value="false" />
+    <method v="2" />
+  </configuration>
+</component>

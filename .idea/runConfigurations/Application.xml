@@ -1,0 +1,22 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="springboot-nrepl-demo" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.example.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.Application" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+    <envs>
+      <env name="NREPL_ENABLE" value="true" />
+      <env name="NREPL_PORT" value="7999" />
+      <env name="NREPL_NS" value="user" />
+    </envs>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
